@@ -1,0 +1,42 @@
+[build-system]
+requires = ["poetry-core>=1.2.0", "poetry-dynamic-versioning"]
+build-backend = "poetry_dynamic_versioning.backend"
+
+[tool.poetry]
+name = "telescope.pics"
+version = "0.0.0"
+description = "telescope.pics"
+license = "GPL-3.0-or-later"
+authors = ["Stephen Kent <smkent@smkent.net>"]
+readme = "README.md"
+repository = "https://github.com/smkent/telescope.pics"
+classifiers = [
+    "Operating System :: OS Independent",
+]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+mkdocs = "^1.5.3"
+mkdocs-material = "^9.4.14"
+mkdocs-git-revision-date-localized-plugin = "^1.2.1"
+
+[tool.poetry.dev-dependencies]
+cruft = "*"
+poethepoet = "*"
+pre-commit = "*"
+
+[tool.poetry.scripts]
+
+[tool.poetry-dynamic-versioning]
+enable = true
+vcs = "git"
+style = "semver"
+
+[tool.poe.tasks.lint]
+cmd = "pre-commit run --all-files --show-diff-on-failure"
+help = "Check all files"
+
+[tool.cruft]
+skip = [".git"]
+
+# vim: ft=cfg

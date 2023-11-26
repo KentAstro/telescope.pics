@@ -1,0 +1,21 @@
+{
+  "template": "https://github.com/smkent/cookie-python",
+  "commit": "ef0eb856151aa6b4a7442a6c3e8ceb6511203ac2",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "telescope.pics",
+      "project_slug": "telescope.pics",
+      "project_description": "telescope.pics",
+      "project_license": "GPL-3.0-or-later",
+      "enable_coverage": "no",
+      "enable_pypi_publish": "no",
+      "enable_container_publish": "no",
+      "author_name": "Stephen Kent",
+      "author_email": "smkent@smkent.net",
+      "github_user": "smkent",
+      "_template": "https://github.com/smkent/cookie-python"
+    }
+  },
+  "directory": null
+}

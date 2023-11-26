@@ -1,0 +1,27 @@
+site_name: telescope.pics
+site_url: https://telescope.pics
+repo_name: smkent/telescope.pics
+repo_url: https://github.com/smkent/telescope.pics
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: light blue
+      accent: yellow
+      toggle:
+        name: Switch to light mode
+        icon: material/lightbulb-outline
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: light blue
+      toggle:
+        name: Switch to dark mode
+        icon: material/lightbulb
+
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: false
+      type: timeago
+  - search

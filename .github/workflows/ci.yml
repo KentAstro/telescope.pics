@@ -1,0 +1,52 @@
+---
+name: Test
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  Test:
+    name: Python ${{ matrix.python-version }}, Poetry ${{ matrix.poetry-version }}
+
+    strategy:
+      matrix:
+        os:
+          - Ubuntu
+        python-version:
+          - "3.12"
+        poetry-version:
+          - "1.6"
+
+    runs-on: ${{ matrix.os }}-latest
+    steps:
+      - name: 💾 Check out repository
+        uses: actions/checkout@v3
+
+      - name: 🌿 Fetch gh-pages branch
+        run: git fetch origin gh-pages
+
+      - name: 🐍 Set up Python project with Poetry
+        uses: ./.github/workflows/actions/python-poetry
+        with:
+          python_version: ${{ matrix.python-version }}
+          poetry_version: ${{ matrix.poetry-version }}
+
+      - name: 🔥 Run static checks
+        run: poetry run poe lint
+
+      - name: 🏗️ Build site
+        run: poetry run mkdocs build
+
+      - name: 🚀 Deploy site
+        run: poetry run mkdocs gh-deploy
+        if: ${{ github.ref == 'refs/heads/main' }}
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
