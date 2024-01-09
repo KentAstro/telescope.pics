@@ -1,7 +1,7 @@
 # telescope.pics
 
-[![Build](https://img.shields.io/github/checks-status/smkent/telescope.pics/main?label=build)][gh-actions]
-[![GitHub stars](https://img.shields.io/github/stars/smkent/telescope.pics?style=social)][repo]
+[![Build](https://img.shields.io/github/checks-status/KentAstro/telescope.pics/main?label=build)][gh-actions]
+[![GitHub stars](https://img.shields.io/github/stars/KentAstro/telescope.pics?style=social)][repo]
 
 ## Development
 
@@ -42,8 +42,8 @@ Created from [smkent/cookie-python][cookie-python] using
 
 [cookie-python]: https://github.com/smkent/cookie-python
 [cookiecutter]: https://github.com/cookiecutter/cookiecutter
-[gh-actions]: https://github.com/smkent/telescope.pics/actions?query=branch%3Amain
+[gh-actions]: https://github.com/KentAstro/telescope.pics/actions?query=branch%3Amain
 [mkdocs]: https://www.mkdocs.org
 [pipx]: https://pypa.github.io/pipx/
 [poetry]: https://python-poetry.org/docs/#installation
-[repo]: https://github.com/smkent/telescope.pics
+[repo]: https://github.com/KentAstro/telescope.pics
