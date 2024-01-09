@@ -8,19 +8,9 @@ theme:
   name: material
   custom_dir: overrides
   palette:
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: light blue
-      accent: yellow
-      toggle:
-        name: Switch to light mode
-        icon: material/lightbulb-outline
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: light blue
-      toggle:
-        name: Switch to dark mode
-        icon: material/lightbulb
+    scheme: slate
+    primary: light blue
+    accent: lime
   features:
     - content.action.edit
     - content.action.view
