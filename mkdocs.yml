@@ -2,9 +2,11 @@ site_name: telescope.pics
 site_url: https://telescope.pics
 repo_name: KentAstro/telescope.pics
 repo_url: https://github.com/KentAstro/telescope.pics
+edit_uri: "edit/main/docs/"
 
 theme:
   name: material
+  custom_dir: overrides
   palette:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
@@ -19,6 +21,9 @@ theme:
       toggle:
         name: Switch to dark mode
         icon: material/lightbulb
+  features:
+    - content.action.edit
+    - content.action.view
 
 plugins:
   - git-revision-date-localized:
