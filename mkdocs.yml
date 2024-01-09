@@ -2,26 +2,31 @@ site_name: telescope.pics
 site_url: https://telescope.pics
 repo_name: KentAstro/telescope.pics
 repo_url: https://github.com/KentAstro/telescope.pics
+edit_uri: "edit/main/docs/"
 
 theme:
   name: material
+  custom_dir: overrides
   palette:
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: light blue
-      accent: yellow
-      toggle:
-        name: Switch to light mode
-        icon: material/lightbulb-outline
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: light blue
-      toggle:
-        name: Switch to dark mode
-        icon: material/lightbulb
+    scheme: slate
+    primary: light blue
+    accent: lime
+  features:
+    - content.action.edit
+    - content.action.view
+    - content.tooltips
 
 plugins:
   - git-revision-date-localized:
-      enable_creation_date: false
+      enable_creation_date: true
       type: timeago
   - search
+
+extra:
+  social:
+    - name: YouTube Channel
+      link: https://www.youtube.com/channel/UCcCOe9JvkxQDhEwkmTEv08A
+      icon: simple/youtube
+    - name: KentAstro on GitHub
+      link: https://github.com/KentAstro
+      icon: fontawesome/brands/github
