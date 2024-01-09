@@ -21,3 +21,12 @@ plugins:
       enable_creation_date: false
       type: timeago
   - search
+
+extra:
+  social:
+    - name: YouTube Channel
+      link: https://www.youtube.com/channel/UCcCOe9JvkxQDhEwkmTEv08A
+      icon: simple/youtube
+    - name: KentAstro on GitHub
+      link: https://github.com/KentAstro
+      icon: fontawesome/brands/github
