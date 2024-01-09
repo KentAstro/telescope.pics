@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <circle style="opacity:1;fill:#02a6f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.46842211;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" cx="16" cy="16" r="16" />
+  <path d="m 21.155,26.87 a 0.75,0.75 0 0 0 0.226,-1.036 l -4,-6.239 A 0.75,0.75 0 0 0 16.44,19.318 l -2.75,1.25 a 0.75,0.75 0 0 0 -0.318,0.273 l -3.25,4.989 a 0.75,0.75 0 0 0 1.256,0.819 l 3.131,-4.806 0.51,-0.232 v 5.64 a 0.75,0.75 0 1 0 1.5,0 v -6.22 l 3.6,5.613 a 0.75,0.75 0 0 0 1.036,0.226 z M 4.408,19.13 a 2,2 0 0 1 0.59,-2.642 L 21.038,5.33 a 1.999,1.999 0 0 1 2.85,0.602 l 2.828,4.644 a 2,2 0 0 1 -0.851,2.847 l -17.762,8.43 a 2,2 0 0 1 -2.59,-0.807 z m 13.105,-9.521 2.857,4.76 1.361,-0.646 -2.984,-4.973 z m -7.842,5.455 -1.235,0.86 1.862,3.225 1.36,-0.645 z" style="fill:#ffffff;fill-opacity:1" />
+</svg>

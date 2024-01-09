@@ -7,10 +7,13 @@ edit_uri: "edit/main/docs/"
 theme:
   name: material
   custom_dir: overrides
+  icon:
+    logo: octicons/telescope-fill-24
   palette:
     scheme: slate
     primary: light blue
     accent: lime
+  favicon: img/favicon.svg
   features:
     - content.action.edit
     - content.action.view
