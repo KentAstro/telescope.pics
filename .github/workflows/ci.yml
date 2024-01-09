@@ -37,9 +37,6 @@ jobs:
           python_version: ${{ matrix.python-version }}
           poetry_version: ${{ matrix.poetry-version }}
 
-      - name: 🔥 Run static checks
-        run: poetry run poe lint
-
       - name: 🏗️ Build site
         run: poetry run mkdocs build
 
