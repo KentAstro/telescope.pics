@@ -3,6 +3,8 @@
 [![Build](https://img.shields.io/github/checks-status/KentAstro/telescope.pics/main?label=build)][gh-actions]
 [![GitHub stars](https://img.shields.io/github/stars/KentAstro/telescope.pics?style=social)][repo]
 
+**View the site here: [telescope.pics][site]**
+
 ## Development
 
 ### [Poetry][poetry] installation
@@ -47,3 +49,4 @@ Created from [smkent/cookie-python][cookie-python] using
 [pipx]: https://pypa.github.io/pipx/
 [poetry]: https://python-poetry.org/docs/#installation
 [repo]: https://github.com/KentAstro/telescope.pics
+[site]: https://telescope.pics
