@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Welcome to telescope.pics
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+More coming soon!
 
 # Transit of Mercury
 
