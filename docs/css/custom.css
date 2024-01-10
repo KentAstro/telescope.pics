@@ -1,0 +1,9 @@
+[data-md-color-scheme=default],
+[data-md-color-scheme=slate] {
+    /* --md-primary-fg-color: #49a6cf; */
+    --md-primary-fg-color--dark: #007cb4;
+}
+
+.md-tabs {
+    background-color: var(--md-primary-fg-color--dark);
+}
