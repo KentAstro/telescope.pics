@@ -6,6 +6,17 @@ edit_uri: "edit/main/docs/"
 
 nav:
   - Home: index.md
+  - Photography:
+    - photography/index.md
+    - photography/solar.md
+    - photography/lunar.md
+    - photography/comet.md
+    - photography/planetary.md
+    - photography/deep-sky.md
+  - Equipment:
+    - equipment/index.md
+  - About:
+    - about/index.md
 
 theme:
   name: material
