@@ -25,7 +25,6 @@ theme:
     - navigation.indexes
     - navigation.sections
     - navigation.tabs
-    - toc.integrate
 
 plugins:
   - git-revision-date-localized:
