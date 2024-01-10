@@ -5,4 +5,44 @@
          <lastmod>2024-01-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://telescope.pics/about/</loc>
+         <lastmod>2024-01-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://telescope.pics/equipment/</loc>
+         <lastmod>2024-01-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://telescope.pics/photography/</loc>
+         <lastmod>2024-01-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://telescope.pics/photography/comet/</loc>
+         <lastmod>2024-01-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://telescope.pics/photography/deep-sky/</loc>
+         <lastmod>2024-01-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://telescope.pics/photography/lunar/</loc>
+         <lastmod>2024-01-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://telescope.pics/photography/planetary/</loc>
+         <lastmod>2024-01-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://telescope.pics/photography/solar/</loc>
+         <lastmod>2024-01-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
