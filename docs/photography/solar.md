@@ -1,6 +1,7 @@
 # Daytime (Solar) Observing
 
-##Annular Solar Eclipse of 14 Oct 2023
+## Annular Solar Eclipse of 14 Oct 2023
+
 Albuquerque, NM
 
 
