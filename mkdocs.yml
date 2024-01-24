@@ -42,6 +42,8 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
       type: timeago
+  - glightbox:
+      auto_caption: true
   - privacy
   - search
 
