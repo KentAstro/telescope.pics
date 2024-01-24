@@ -7,3 +7,7 @@
 .md-tabs {
     background-color: var(--md-primary-fg-color--dark);
 }
+
+.md-typeset h1 {
+    color: #ffed3b;
+}
