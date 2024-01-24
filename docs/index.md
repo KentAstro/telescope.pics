@@ -13,6 +13,9 @@ Soon, we will add a section to leave comments and address questions. In the mean
 
 I wish to acknowledge my spouse Linda, my brother William, and my son Stephen for helping me pursue this hobby and build this site.
 
+Brian M. Kent, Ph.D.
+Dayton, Ohio USA
+
 # Coming Soon: Ability to leave comments and ask questions.
 
 
