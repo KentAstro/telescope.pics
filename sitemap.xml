@@ -31,6 +31,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://telescope.pics/photography/innerplanettransits/</loc>
+         <lastmod>2024-01-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://telescope.pics/photography/lunar/</loc>
          <lastmod>2024-01-24</lastmod>
          <changefreq>daily</changefreq>
