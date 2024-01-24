@@ -1,4 +1,4 @@
-# Planetary Photograhpy
+# Planetary Photography
 
 ## Jupiter Rotating with Europa Moon Transit (10-12 Nov 2023)
 
