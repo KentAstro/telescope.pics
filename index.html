@@ -57,7 +57,16 @@
     
     
     
-  </head>
+   <link href="assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="assets/javascripts/glightbox.min.js"></script></head>
   
   
     
@@ -733,7 +742,7 @@
 
 <h1 id="welcome-to-telescopepics">Welcome to telescope.pics</h1>
 <p>Welcome to telescope.pics!  The purpose of this website is to share the results of my lifelong interest in astrophotography! I've been interested in astronomy since my teen years, and spent decades juggling an engineering career with skywatching. In 1996, when Comet Hyakatuki splashed across the sky, I turned my SLR camera upward and never looked back! Transitioning out of film in the early 2000's, I continued over the years to try to improve my ability to photograph celestial events. </p>
-<p><img alt="photo of telescope night setup" src="img/Telescope%20night%20setup.jpg" /></p>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" data-title="photo of telescope night setup" data-desc-position="bottom"><img alt="photo of telescope night setup" src="img/Telescope%20night%20setup.jpg" /></a></p>
 <p>I have viewed many websites and blogs, and have learned from each one of them. I am not the best at this hobby (there are many fine artists and astronomers who do better) but what sucess I've had I am willing to share with the local community. In addition, I use this hobby in education and public outreach to teach basic astronomy to children and adults of all ages.</p>
 <p>I will also share technical detail on how I do things and take pictures, and am always open for suggestions and comments on doing better. </p>
 <p>Soon, we will add a section to leave comments and address questions. In the mean time, enjoy the site.</p>
@@ -873,5 +882,9 @@ Dayton, Ohio USA</p>
         <script src="js/timeago_mkdocs_material.js"></script>
       
     
-  </body>
+  <script>document$.subscribe(() => {document.querySelectorAll('.glightbox').forEach(function(element) {
+    var imgSrc = element.querySelector('img').src;
+    element.setAttribute('href', imgSrc);
+});
+const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>
 </html>
