@@ -5,7 +5,7 @@ Welcome to telescope.pics!  The purpose of this website is to share the results 
 ![photo of telescope night setup](img/Telescope night setup.jpg)
 
 
-I have viewed many websites and blogs, and have learned from each one of them. I am not the best at this hobby (there are many fine artists and astronomers who do better) but what sucess I've had I am willing to share with the local community. In addition, I use this hobby in education and public outreach to teach basic astronomy to children and adults of all ages.
+I have viewed many websites and blogs, and have learned from each one of them. I am not the best at this hobby (there are many fine artists and astronomers who do better) but what success I've had I am willing to share with the local community. In addition, I use this hobby in education and public outreach to teach basic astronomy to children and adults of all ages.
 
 I will also share technical detail on how I do things and take pictures, and am always open for suggestions and comments on doing better. 
 
