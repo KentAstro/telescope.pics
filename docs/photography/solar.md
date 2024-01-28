@@ -18,6 +18,8 @@ Albuquerque, NM
 
 ## Check out this presentation
 
+    The art and science of Eclpse Photography
+
 [The art and science of eclipse photography](https://www.dropbox.com/scl/fi/ase3ciztndtbipvc0od33/Solar-and-Lunar-Centerville-6-Feb-2024.pdf?rlkey=z6fs76b5o3aweoobuh7sks8ka&raw=1)
 
 
