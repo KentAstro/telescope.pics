@@ -6,7 +6,7 @@ To show how that works, I have a couple of files and pictures I will share here.
 
 ## Overlay of Southern Constellations
 
-The first set of photos I took were from a November 2014 trip I took to Queenstown, New Zealand. I had never seen the Southern Constellations in my life, so ther than the "southern cross" I couldnt figure anything out. I simply took some wide angle pictures at night of the southern skies near my hotel room. Once I came home, I searched the internet for a simple southern hemisphere star chart, and compared my pictures to those charts. Using power point, and by adjusting the darkness and contrast of my pictures, I then slowly drew in the constellations. Here is a before/after picture of what that looked like.
+The first set of photos I took were from a November 2014 trip I took to Queenstown, New Zealand. I had never seen the Southern Constellations in my life, so ther than the "southern cross" I couldnt figure anything out. I simply took some wide angle pictures at night of the southern skies near my hotel room. Once I came home, I searched the internet for a simple southern hemisphere star chart, and compared my pictures to those charts. Using power point, and by adjusting the darkness and contrast of my pictures, I then slowly drew in the constellations. Here is a before/after picture of what that looked like. Notice in the Second photograph, the familiar northern constellation of  "Orion" is upside down, an artifact of taking te picture from "down under!" 
 
 ## Original Photograph 1 (18 mm lens, Nikon D700, 30 Second Exposure, Queenstowwn, NZ.) 
 
@@ -33,19 +33,20 @@ On August 12, 2016 I decided to try to photograph some meteors using the same se
 
 ## Original Photograph 1 (18 mm lens, Nikon D7100, 34 Second Exposure, ISO 200, ~0230 EDT, Dayton Ohio) 
 
-![](../img/Perseids_1.TIF)
+![](../img/Perseids1.PNG)
 
 
 ## Original Photograph 1 With Northern Constellation Overlays  
 
-![](../img/Perseids_2.TIF)
+![](../img/Perseids2.PNG)
 
 ## Original Photograph 2 (18 mm lens, Nikon D7100, 20 Second Exposure, ~0300 EDT, Dayton, Ohio.) 
 
-![](../img/Perseids_3.TIF)
+![](../img/Perseids3.PNG)
 
 
 ## Original Photograph 2 With Northern Constellation Overlays  
 
-![](../img/Perseids_4.TIF)
+![](../img/Perseids4.PNG)
 
+#More Constellations Coming!
