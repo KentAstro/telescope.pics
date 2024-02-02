@@ -42,7 +42,7 @@ On August 12, 2016 I decided to try to photograph some meteors using the same se
 
 ## Original Photograph 2 (18 mm lens, Nikon D7100, 20 Second Exposure, ~0300 EDT, Dayton, Ohio.) 
 
-![](../img/Perseids_3.TIF.BMP)
+![](../img/Perseids_3.TIF)
 
 
 ## Original Photograph 2 With Northern Constellation Overlays  
