@@ -10,21 +10,21 @@ The first set of photos I took were from a November 2014 trip I took to Queensto
 
 ## Original Photograph 1 (18 mm lens, Nikon D700, 30 Second Exposure, Queenstowwn, NZ.) 
 
-![](../img/Skies of Queenstown NZ_1.bmp)
+![](../img/Skies of Queenstown NZ_1.BMP)
 
 
 ## Original Photograph 1 With Southern Constellation Overlays  
 
-![](../img/Skies of Queenstown NZ_2.bmp)
+![](../img/Skies of Queenstown NZ_2.BMP)
 
 ## Original Photograph 2 (18 mm lens, Nikon D700, 30 Second Exposure, Queenstowwn, NZ.) 
 
-![](../img/Skies of Queenstown NZ_3.bmp)
+![](../img/Skies of Queenstown NZ_3.BMP)
 
 
 ## Original Photograph 2 With Southern Constellation Overlays  
 
-![](../img/Skies of Queenstown NZ_3.bmp)
+![](../img/Skies of Queenstown NZ_3.BMP)
 
 
 
