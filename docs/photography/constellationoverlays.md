@@ -2,20 +2,19 @@
 
 
 ## Overlay of Northern Constellations
+If you are new to Astronomy and Astrophotography, or ar thinking of getting started taking simple pictures, probably one of the most challenging things to a newcomer is to learn your way around the night sky. WHether you live in a light polluted city, or have dark country (or mountain) skies, figuring out where stars and planets are can be very discouraging. However, here is a fun project that you can do to help yourself become familiar witht he night sky. It involves a tiny bit of work on the internet, and some simple photographs taken at night. The project will help you read a star map, and possibly trace your own constellations in night photographic skies. 
 
-WIth just a simple 
+To show how that works, I have a couple of files and pictures I will share here. The photography involves a smple tripod for your camera (cell cameras work great) and thw ability to trigger a 15 to 60 second exposure without touching the camera shutter. (In other words, if you use a timer or a remote shutter release, your hand wont induce vibration and cause the camera to mechanically move when you press the shutter button and make the picture fuzzy).  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GbsniW4NG88?si=n_z7JG4RwW6Wkqz4" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+The first set of photos I took were from a November 2014 trip I took to Queenstown, New Zealand. I had never seen the Southern Constellations, so I simply took some wide angle pictures at night of the southern skies near my hotel room. Once I came home, I searched the internet for a simple southern hemisphere star chart, and compared my pictures tothe charts. Using power point, I then slowly drew in the constellations. Here is a before/after picture of what that looked like.
+
+Original Photograph (18 mm lens, Nikon D700, 30 Second Exposure, Queenstowwn, NZ. 
+
+
 
 ## Brian Next to his solar eclipse instruments
 
 ![Brian Photographing Idaho Eclipse showing Equipment](../img/Brian Photographing Idaho Eclipse.JPG)
-
-## Annular Solar Eclipse of 14 Oct 2023
-
-Albuquerque, NM
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wKho_tsoPOg?si=hQA3T71WweC4ZfaR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Check out this presentation
