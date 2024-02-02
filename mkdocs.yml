@@ -8,6 +8,7 @@ nav:
   - Home: index.md
   - Photography:
     - photography/index.md
+    - photography/constellationoverlays.md
     - photography/solar.md
     - photography/lunar.md
     - photography/innerplanettransits.md
@@ -15,7 +16,7 @@ nav:
     - photography/planetaryconjunctions.md
     - photography/planetary.md
     - photography/deep-sky.md
-    - photography/constellationoverlays.md
+
   - Equipment:
     - equipment/index.md
   - About:
