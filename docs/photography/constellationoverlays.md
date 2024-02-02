@@ -27,11 +27,25 @@ The first set of photos I took were from a November 2014 trip I took to Queensto
 ![](../img/Skies of Queenstown NZ _4.BMP)
 
 
-
-
-
 ## Overlay of Northern Constellations...With Meteors too!
 
-On August 12, 2016 I decided to try to photograph some meteors using the same setup for constellation photography. This time, i turned my camera north east (NE) of my home driveway, and started snapping pictures about 2:30am in the morning. Again, I did two overlays, each with the camera slightly positioned differently. 
+On August 12, 2016 I decided to try to photograph some meteors using the same setup for constellation photography. This time, i turned my camera north east (NE) of my home driveway, and started snapping pictures about 2:30am in the morning. Again, I did two overlays, each with the camera slightly positioned differently. Notice I also captured a Perseids meteor in each photograph.
 
+## Original Photograph 1 (18 mm lens, Nikon D7100, 34 Second Exposure, ISO 200, ~0230 EDT, Dayton Ohio) 
+
+![](../img/Perseids_1.TIF)
+
+
+## Original Photograph 1 With Northern Constellation Overlays  
+
+![](../img/Perseids_2.TIF)
+
+## Original Photograph 2 (18 mm lens, Nikon D7100, 20 Second Exposure, ~0300 EDT, Dayton, Ohio.) 
+
+![](../img/Perseids_3.TIF.BMP)
+
+
+## Original Photograph 2 With Northern Constellation Overlays  
+
+![](../img/Perseids_4.TIF)
 
