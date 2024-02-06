@@ -1,3 +1,7 @@
+---
+disable_comments: true
+---
+
 # Welcome to telescope.pics
 
 Welcome to telescope.pics!  The purpose of this website is to share the results of my lifelong interest in astrophotography! I've been interested in astronomy since my teen years, and spent decades juggling an engineering career with skywatching. In 1996, when Comet Hyakatuki splashed across the sky, I turned my SLR camera upward and never looked back! Transitioning out of film in the early 2000's, I continued over the years to try to improve my ability to photograph celestial events.
@@ -15,5 +19,3 @@ I wish to acknowledge my spouse Linda, my brother William, and my son Stephen fo
 
 Brian M. Kent, Ph.D.
 Dayton, Ohio USA
-
-# Coming Soon: Ability to leave comments and ask questions.
