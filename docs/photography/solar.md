@@ -22,7 +22,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wKho_tsoPOg?si=hQA3T71WweC4ZfaR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## If you're interested in SAFELY photographing the upcoming eclipse of April 8, 2024 will give you all the details needed to SAFELY photograph this event. There alre also excellent websites to give you technical help in honing settings for your own camera, for instance (www.mreclipse.com) is Fred Espenak's excellent website. 
+## If you're interested in SAFELY photographing the upcoming eclipse of April 8, 2024 this presentation will give you all the details needed to SAFELY photograph this event. There alre also excellent websites to give you technical help in honing settings for your own camera, for instance (www.mreclipse.com) is Fred Espenak's excellent lunar and solar eclipse website with super detailed information on each and every eclipse. 
 
 ## Check out this presentation
 
