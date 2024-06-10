@@ -22,7 +22,18 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wKho_tsoPOg?si=hQA3T71WweC4ZfaR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## If you're interested in SAFELY photographing the upcoming eclipse of April 8, 2024 this presentation will give you all the details needed to SAFELY photograph this event. There alre also excellent websites to give you technical help in honing settings for your own camera, for instance (www.mreclipse.com) is Fred Espenak's excellent lunar and solar eclipse website with super detailed information on each and every eclipse.
+## Next is a series of three videos of the recent Total Solar Eclipse of April 8, 2024. 
+
+## The first was totality as photographed from Marble Falls Texas, about 50 miles northwest of Austin. The weather was far from ideal, with low and high clouds present throught the eclipse. At times, the sun's image was very good, but other times, the mages have a smokey appearance to them. The last 25 minutes of the eclipse, after totality, were entirely occluded with clouds. 
+
+
+<iframe width="983" height="737" src="https://www.youtube.com/embed/xQ-d7jo9hNU" title="Total Solar Eclipse Marble Falls 8 April 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  allowfullscreen></iframe>
+
+## The second video was filmed from Okemos, Michigan (42.71789° N, 84.41653° W ) whic had a ~97% eclipse just outside of the zone of totality. The Photographs were taken by my son Daniel Kent and I produced them into a video. The weather was supurb, although it obviously missed totalility by a whisker! (This video is in production, check back soon)
+
+## The Third video was filmed from deleware, Ohio from (40.33352° N, 83.08270° W)  which had a ~97% eclipse just outside of the zone of totality. The Photographs were taken by my Nephew Dr. Thomas Kent and I produced them into a video. The weather in Deleware, Ohio was also supurb, and made the zone of totality by about 30 miles on the southern edge of the eclipse shadow.  (This video is in production, check back soon)
+
+## If you're interested in SAFELY photographing the sun or any upcoming solar eclipse, this presentation will give you all the details needed to SAFELY photograph this event. There alre also excellent websites to give you technical help in honing settings for your own camera, for instance (www.mreclipse.com) is Fred Espenak's excellent lunar and solar eclipse website with super detailed information on each and every eclipse.
 
 ## Check out this presentation
 
