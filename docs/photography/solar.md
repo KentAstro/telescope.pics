@@ -16,9 +16,11 @@
 
 ## After seeing the total eclipse video above, the next 2 videos are of another type of solar eclipse called an "annular" eclipse. Annular eclipses happen, just like regular solar eclipses, when the moon is new and the orbital nodes line up. However, since the moon's orbit around the earth is elliptical, sometimes in earth's orbit the moon is too far away to completely cover the surface of the sun in an eclipse. At its maximum coverage, there is left an "annulus" or a "ring of fire" that's left uncovered. Annular eclipses happen about 58% of the time, total eclipses like the 2017 eclipse happen about 42% of the time. Amazingly, since the moon's shadow is so small, a total or annular eclipse is visible over only a tiny portio of the Earth's surface.  On average, at any one place on earth, the odds of experiencing a total or annular eclipse is once in 360 years. So why did Albuquerque New Mexico get one on May 20, 2012 and October 14, 2023 after only 11 years. Remember I said "on average". (Note: Northern New Mexico gets another annular eclipse on November 15, 2077, so mark your calendar!)
 
-## Annular Solar Eclipse of 14 Oct 2023
+## Annular Solar Eclipse of May 20,2012 ALbuquerque, NM
 
-## Albuquerque, NM
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mTr1ow2AKf4?si=C3JU4OD7riZBeZiq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  allowfullscreen></iframe>
+
+## Annular Solar Eclipse of 14 Oct 2023 Albuquerque NM  - Again!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wKho_tsoPOg?si=hQA3T71WweC4ZfaR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -26,12 +28,11 @@
 
 ## The first was totality as photographed from Marble Falls Texas, about 50 miles northwest of Austin. The weather was far from ideal, with low and high clouds present throught the eclipse. At times, the sun's image was very good, but other times, the mages have a smokey appearance to them. The last 25 minutes of the eclipse, after totality, were entirely occluded with clouds. 
 
-
 <iframe width="983" height="737" src="https://www.youtube.com/embed/xQ-d7jo9hNU" title="Total Solar Eclipse Marble Falls 8 April 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  allowfullscreen></iframe>
 
-## The second video was filmed from Okemos, Michigan (42.71789° N, 84.41653° W ) whic had a ~97% eclipse just outside of the zone of totality. The Photographs were taken by my son Daniel Kent and I produced them into a video. The weather was supurb, although it obviously missed totalility by a whisker! (This video is in production, check back soon)
+## The second video was filmed from Okemos, Michigan (42.71789° N, 84.41653° W ) which had a ~97% eclipse just outside of the zone of totality. The photographs were taken by my son Daniel Kent and I produced them into a video. The weather was supurb, although it obviously missed totalility by a whisker! (This video is in production, check back soon)
 
-## The Third video was filmed from deleware, Ohio from (40.33352° N, 83.08270° W)  which had a ~97% eclipse just outside of the zone of totality. The Photographs were taken by my Nephew Dr. Thomas Kent and I produced them into a video. The weather in Deleware, Ohio was also supurb, and made the zone of totality by about 30 miles on the southern edge of the eclipse shadow.  (This video is in production, check back soon)
+## The Third video was filmed from Delaware, Ohio from (40.33352° N, 83.08270° W)  which had a ~97% eclipse just outside of the zone of totality. The Photographs were taken by my Nephew Dr. Thomas Kent and I produced them into a video. The weather in Deleware, Ohio was also supurb, and made the zone of totality by about 30 miles on the southern edge of the eclipse shadow.  (This video is in production, check back soon)
 
 ## If you're interested in SAFELY photographing the sun or any upcoming solar eclipse, this presentation will give you all the details needed to SAFELY photograph this event. There alre also excellent websites to give you technical help in honing settings for your own camera, for instance (www.mreclipse.com) is Fred Espenak's excellent lunar and solar eclipse website with super detailed information on each and every eclipse.
 
