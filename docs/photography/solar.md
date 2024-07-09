@@ -24,9 +24,9 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wKho_tsoPOg?si=hQA3T71WweC4ZfaR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Next is a series of three videos of the recent Total Solar Eclipse of April 8, 2024. 
+## Next is a series of three videos of the recent Total Solar Eclipse of April 8, 2024.
 
-## The first was totality as photographed from Marble Falls Texas, about 50 miles northwest of Austin. The weather was far from ideal, with low and high clouds present throught the eclipse. At times, the sun's image was very good, but other times, the mages have a smokey appearance to them. The last 25 minutes of the eclipse, after totality, were entirely occluded with clouds. 
+## The first was totality as photographed from Marble Falls Texas, about 50 miles northwest of Austin. The weather was far from ideal, with low and high clouds present throught the eclipse. At times, the sun's image was very good, but other times, the mages have a smokey appearance to them. The last 25 minutes of the eclipse, after totality, were entirely occluded with clouds.
 
 <iframe width="983" height="737" src="https://www.youtube.com/embed/xQ-d7jo9hNU" title="Total Solar Eclipse Marble Falls 8 April 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  allowfullscreen></iframe>
 
