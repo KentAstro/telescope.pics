@@ -21,12 +21,12 @@ jobs:
         python-version:
           - "3.12"
         poetry-version:
-          - "1.6"
+          - "1.8"
 
     runs-on: ${{ matrix.os }}-latest
     steps:
       - name: 💾 Check out repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
