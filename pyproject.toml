@@ -1,33 +1,40 @@
 [build-system]
-requires = ["poetry-core>=1.2.0", "poetry-dynamic-versioning"]
-build-backend = "poetry_dynamic_versioning.backend"
+requires = ["poetry-core>=2.0.0,<3.0.0", "poetry-dynamic-versioning"]
+build-backend = "poetry.core.masonry.api"
 
-[tool.poetry]
+[project]
 name = "telescope.pics"
-version = "0.0.0"
 description = "telescope.pics"
 license = "GPL-3.0-or-later"
-authors = ["Stephen Kent <smkent@smkent.net>"]
+authors = [ { name = "Stephen Kent", email = "smkent@smkent.net" } ]
 readme = "README.md"
 repository = "https://github.com/smkent/telescope.pics"
 classifiers = [
     "Operating System :: OS Independent",
 ]
+requires-python = ">=3.9,<4.0"
+dynamic = [ "version" ]
+dependencies = [
+    "mkdocs (>=1.5.3)",
+    "mkdocs-git-revision-date-localized-plugin (>=1.2.1)",
+    "mkdocs-glightbox (>=0.3.7)",
+    "mkdocs-material (>=9.4.14)",
+]
+
+[project.scripts]
+
+[tool.poetry]
 package-mode = false
+requires-poetry = ">=2.0"
+version = "0.0.0"
 
-[tool.poetry.dependencies]
-python = "^3.8"
-mkdocs = "^1.5.3"
-mkdocs-material = "^9.4.14"
-mkdocs-git-revision-date-localized-plugin = "^1.2.1"
-mkdocs-glightbox = "^0.3.7"
+[tool.poetry.requires-plugins]
+poetry-dynamic-versioning = { version = ">=1.0.0,<2.0.0", extras = ["plugin"] }
 
-[tool.poetry.dev-dependencies]
+[tool.poetry.group.dev.dependencies]
 cruft = "*"
 poethepoet = "*"
 pre-commit = "*"
-
-[tool.poetry.scripts]
 
 [tool.poetry-dynamic-versioning]
 enable = true
