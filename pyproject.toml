@@ -13,6 +13,7 @@ repository = "https://github.com/smkent/telescope.pics"
 classifiers = [
     "Operating System :: OS Independent",
 ]
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.8"
