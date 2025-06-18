@@ -8,6 +8,8 @@ Welcome to telescope.pics!  The purpose of this website is to share the results 
 
 IF YOU ARE HERE TO LOOK FOR THE CENTERVILLE OHIO ASTRO-PHOTOGRAPHY DOWNLOAD SITE, THE WEB ADDRESS SHALL BE POSTED 1 JULY 2025 IN ACCORDANCE WITH OUR AGREEMENT WITH THE CENTERVILLE ARTS COMMISSION. PLEASE COME BACK THEN, THE LINK WILL BE RIGHT ON THIS HOME PAGE. 
 
+Link is Here: <a href="https://filedn.com/lAnSiyzcTdoJGRDea9amBQY/">Centerville Ohio Astrophotography Exhibit July 2025</a>
+
 ![photo of telescope night setup](img/Brian and Telescope.jpg)
 
 
