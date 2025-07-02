@@ -54,6 +54,15 @@ extra_css:
   - css/custom.css
 
 extra:
+  analytics:
+    provider: google
+    property: G-4X4R8JGD34
+  consent:
+    title: "Cookie consent"
+    description: >-
+      This site uses cookies to recognize your repeated visits and preferences,
+      so as to measure the site's usefulness to visitors. With your consent,
+      you're helping to make this site better.
   social:
     - name: YouTube Channel
       link: https://www.youtube.com/channel/UCcCOe9JvkxQDhEwkmTEv08A
